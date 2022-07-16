@@ -1,4 +1,4 @@
-3<form method="post" action="" enctype="multipart/form-data">
+<form method="post" action="" enctype="multipart/form-data">
     <div>
         <input type="file" name="file">
     </div>
